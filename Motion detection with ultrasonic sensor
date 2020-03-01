@@ -139,8 +139,8 @@ if __name__ == '__main__':
                         TEXT = 'There is a motion detected \n picture taken.'
                         
                         # Gmail Sign In
-                        gmail_sender = 'serrentsarmy@gmail.com'
-                        gmail_passwd = 'Yahoo@123'
+                        gmail_sender = 'example@gmail.com'              #the email of your email
+                        gmail_passwd = '**********'                     #the Password of your email
                         
                         
                         server = smtplib.SMTP('smtp.gmail.com', 587)

@@ -17,7 +17,8 @@ https://user-images.githubusercontent.com/55791929/187018188-f3e640f3-cbd1-449d-
 
 ### Sample production model
 
-https://github.com/adityaraj079/Images/blob/main/Projects/Serrie.png?raw=true
+![Serrie Project](https://raw.githubusercontent.com/adityaraj079/Images/main/Projects/Serrie.png)
+
 
 ### Team Members
  - Aditya Raj
